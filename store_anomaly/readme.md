@@ -5,6 +5,6 @@ where management wants to see problems in current processes and correct them.
 
 ## Links:
 - [[Youtube] MVP for sales anomaly detection](https://youtu.be/WjpYqvMtYlQ)
+- [[Youtube] Anomaly detection with isolation forest](https://www.youtube.com/watch?v=qNDcPUeCEPI&t=328s)
+- [[Youtube] Anomaly detection with KNN](https://www.youtube.com/watch?v=RwmttGrJs08&t=65s) 
 - [Sklearn novelty detection methods](https://scikit-learn.org/stable/modules/outlier_detection.html)
-- [Anomaly detection with isolation forest](https://www.youtube.com/watch?v=qNDcPUeCEPI&t=328s)
-- [Anomaly detection with KNN](https://www.youtube.com/watch?v=RwmttGrJs08&t=65s) 
