@@ -8,3 +8,7 @@ In this repo, we will push practical examples of MVPs for different ML projects.
 The following youtube videos are explaining the codes in this report.
 - [MVP for weather prediction](https://www.youtube.com/watch?v=HSzQfxv2_l8)
 - [MVP for sales anomaly detection](https://youtu.be/WjpYqvMtYlQ)
+
+### More videos on anomaly detection 
+- [Anomaly detection with isolation forest](https://youtu.be/qNDcPUeCEPI)
+- [Anomaly detection with KNN](https://youtu.be/RwmttGrJs08)
