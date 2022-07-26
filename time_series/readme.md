@@ -9,6 +9,8 @@ In the following videos I will talk about this groups with simple examples.
 
 
 🔴 Subscribe for more ML projects: https://www.youtube.com/c/AIwithDrMo?sub_confirmation=1
+
 💻 Univariate single step out time series prediction https://youtu.be/LkoSAbKG_H8
+
 💻 Univariate multi step out time series prediction https://youtu.be/xYT65cyNS4M
 
