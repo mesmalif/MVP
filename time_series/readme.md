@@ -1,3 +1,5 @@
+# Time series prediction
+
 Many practical prediction problems have time component and the seasonality inside these dates has valuable information that cannot be neglected. Time series problems can be categorized into 4 groups, 
 
 1. Univariate (one feature to use in training) and single step (predicting just one point in the future).
