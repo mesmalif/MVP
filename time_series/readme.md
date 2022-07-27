@@ -7,8 +7,4 @@ Many practical prediction problems have time component and the seasonality insid
 3. Univariate (one feature to use in training) and multi-step (predicting multiple points in the future).
 4. Multivariate (multiple features to use in training) and multi-step (predicting multiple points in the future).
 
-Above hyper-links are videos that I describe these groups with simple examples. 
-
-
-🔴 [AI with Dr. Mo youtube channel](https://www.youtube.com/c/AIwithDrMo?sub_confirmation=1)
 
